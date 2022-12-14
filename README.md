@@ -28,10 +28,7 @@
 
 
 # CLIENT REACT
-<h3>Utilizando Axios </h3
+<h2>Utilizando Axios </h2>
 
-
-
-
-
-<h2>Estou realizando melhorias no projeto para cada vês mais ser um projeto mais robusto com integrações de fornecedores e clientes </h2>
+<br>
+<h3>Estou realizando melhorias no projeto para cada vês mais ser um projeto mais robusto com integrações de fornecedores e clientes </h3>
