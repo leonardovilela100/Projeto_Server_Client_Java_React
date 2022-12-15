@@ -1,4 +1,4 @@
-# Projeto de API REST utilizando Java com Spring Boot e Client utilizando JavaScipt com biblioteca ReactJS
+# Projeto de Server API REST utilizando Java com Spring Boot e Client utilizando JavaScipt com biblioteca ReactJS
 
 <h1> Vídeo do Projeto </h1>
 
